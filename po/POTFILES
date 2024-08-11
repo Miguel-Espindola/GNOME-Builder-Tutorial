@@ -1,0 +1,6 @@
+data/com.example.TextViewer.desktop.in
+data/com.example.TextViewer.metainfo.xml.in
+data/com.example.TextViewer.gschema.xml
+src/main.js
+src/window.js
+src/window.ui

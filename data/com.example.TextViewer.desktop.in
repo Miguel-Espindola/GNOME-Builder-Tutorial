@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=gnome-tutorial
+Exec=com.example.TextViewer
+Icon=com.example.TextViewer
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
